@@ -1,0 +1,19 @@
+{
+  "name": "employee_backend",
+  "version": "1.0.0",
+  "description": "node js app for employee",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayanmrt/Employee_Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayanmrt/Employee_Backend/issues"
+  },
+  "homepage": "https://github.com/jayanmrt/Employee_Backend#readme"
+}
